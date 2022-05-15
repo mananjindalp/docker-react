@@ -17,6 +17,7 @@ function App() {
         >
           Learn React
         </a>
+        <p>Hello React through Travis and AWS</p>
       </header>
     </div>
   );
